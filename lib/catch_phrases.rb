@@ -1,5 +1,6 @@
 def mario
-  phrase = 'Its-a me, Mario!'
+  local_variable = 'Its-a me, Mario!'
+  phrase = local_variable
   puts phrase
 end
 
