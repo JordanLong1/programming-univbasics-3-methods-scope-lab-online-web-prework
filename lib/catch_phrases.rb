@@ -9,6 +9,6 @@ def toadstool
 end
 
 def link
-  local_variable = "It's dangerous to go alone! Take this."
-  puts local_variable
+  phrase = "It's dangerous to go alone! Take this."
+  puts phrase
 end
