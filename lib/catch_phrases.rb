@@ -1,5 +1,6 @@
 def mario
-  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+  local_variable = 'phrase'
+  phrase = 'Its-a me, Mario!'
   puts phrase
 end
 
