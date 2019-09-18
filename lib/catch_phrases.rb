@@ -1,6 +1,6 @@
 def mario
   local_variable = 'Its-a me, Mario!'
-  puts phrase
+  puts local_variable
 end
 
 def toadstool
